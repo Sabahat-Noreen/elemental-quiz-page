@@ -9,7 +9,7 @@ The project repository is organized cleanly into a main root directory containin
 ```text
 .
 ├── README.md               # Project documentation and setup guide
-└── MCQs sheetnn            # Main application source directory
+└── MCQs sheet              # Main application source directory
     ├── index.html          # Application entry point and structural layout
     ├── style.css           # Core layout, custom themes, and animations
     └── bgss.jpg            # Premium high-resolution background asset
